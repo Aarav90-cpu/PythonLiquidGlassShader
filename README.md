@@ -2,6 +2,8 @@
 
 A Liquid Glass Shader for python
 
+I encourage you to suggest Updates and Fixes as I am not at all very good at Python.
+
 # How Does It Look
 
 https://github.com/user-attachments/assets/edca9863-77fd-4504-9a62-47761dbddd09
