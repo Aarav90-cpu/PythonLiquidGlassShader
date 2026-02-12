@@ -2,7 +2,6 @@
 
 A Liquid Glass Shader for python
 
-I encourage you to suggest Updates and Fixes as I am not at all very good at Python.
 
 # How Does It Look
 
@@ -56,3 +55,6 @@ if __name__ == '__main__':
     LiquidApp().run()
 
 ```
+
+
+I encourage you to suggest Updates and Fixes as I am not at all very good at Python.
