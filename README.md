@@ -4,14 +4,13 @@ A Liquid Glass Shader for python
 
 # How To Use?
 
-Move the liquidglass.py and liquid.glsl to the root of your project.
+Move the liquidglass.py and liquid.glsl to the root of your project. You will also need the requirements.txt
 
-You need `kiwi` and `pygame`
+Go to where the requirements.txt is located and run the following command:
 
 ```bash
 
-pip install kiwi
-pip install pygame
+pip install -r requirements.txt
 
 ```
 You are going to need a background ( jpg file only )
