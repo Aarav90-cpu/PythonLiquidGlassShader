@@ -2,6 +2,10 @@
 
 A Liquid Glass Shader for python
 
+# How Does It Look
+
+https://github.com/user-attachments/assets/edca9863-77fd-4504-9a62-47761dbddd09
+
 # How To Use?
 
 Move the liquidglass.py and liquid.glsl to the root of your project. You will also need the requirements.txt
