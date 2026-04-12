@@ -8,7 +8,7 @@ from kivy.core.window import Window
 # 16.dp -> approx 0.05 in UV space
 # 32.dp -> approx 0.10 in UV space
 REFRACTION_AMOUNT = 0.10
-REFRACTION_HEIGHT = 0.15
+REFRACTION_HEIGHT = 0.14
 
 with open('liquid.glsl', 'r') as f:
     SHADER_SOURCE = f.read()
@@ -46,4 +46,3 @@ class LiquidGlassLayer(Widget):
         # Pass the background texture
         if self.bg_source.texture:
             self.bg_bind.texture = self.bg_source.texture
-
